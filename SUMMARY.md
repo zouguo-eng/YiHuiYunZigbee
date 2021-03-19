@@ -1,2 +1,2 @@
 # Summary
-* [编者序](README.md)
+* [序言](README.md)
