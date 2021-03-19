@@ -11,11 +11,15 @@
 
 ## 产品实物图
 
+![](.gitbook/assets/snipaste_2021-03-20_00-07-19.png)
+
 ## 一开开关
 
 ## 四开相关
 
 ## 情景开关
+
+![](.gitbook/assets/wei-biao-ti-2.png)
 
 ## 窗帘开关
 
