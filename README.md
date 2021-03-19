@@ -11,9 +11,9 @@
 
 ## 产品实物图
 
-![&#x60C5;&#x666F;&#x5F00;&#x5173;](.gitbook/assets/snipaste_2021-03-20_00-07-19.png)
+![](.gitbook/assets/snipaste0_2021-03-20_00-07-19.png)
 
-![&#x56DB;&#x5F00;&#x5F00;&#x5173;](.gitbook/assets/snipaste_2021-03-20_00-07-19%20%281%29.png)
+![&#x56DB;&#x5F00;&#x5F00;&#x5173;](.gitbook/assets/snipaste_2021-03-20_00-07-19.png)
 
 ![&#x7A97;&#x5E18;&#x5F00;&#x5173;](.gitbook/assets/snipaste1_2021-03-20_00-07-19.png)
 
