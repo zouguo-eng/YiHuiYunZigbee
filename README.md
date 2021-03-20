@@ -8,6 +8,7 @@
 6. 刷机教程
 7. 接入HomeAssistant
 8. CC2530相关
+9. 交流
 
 ## 产品实物图
 
@@ -47,6 +48,12 @@
 ## 接入HomeAssistant
 
 ## CC2530相关
+
+![CC2530](.gitbook/assets/snipaste_2021-03-20_09-51-17.png)
+
+## 交流
+
+[点击链接加入群聊【微管家App】](https://jq.qq.com/?_wv=1027&k=vNt1J2FT)728198774
 
 
 
