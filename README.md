@@ -27,6 +27,8 @@
 
 ## 窗帘开关
 
+![&#x7A97;&#x5E18;&#x5F00;&#x5173;&#x811A;&#x4F4D;&#x56FE;](.gitbook/assets/yi-hui-yun-zigbee-chuang-lian-kai-guan-.png)
+
 ## 固件
 
 ## 刷机工具
