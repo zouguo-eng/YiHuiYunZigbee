@@ -26,6 +26,13 @@
 
 ## 刷机工具
 
+1. CC-Debugger调试器  
+2. 软件[Texas Instruments SmartRF Flash Programmer](https://www.ti.com/tool/FLASH-PROGRAMMER) 非V2版
+
+![CC-Debugger&#x8C03;&#x8BD5;&#x5668;](.gitbook/assets/f9d78a4e46d8d304f30ea5ee5b22ab2d.jpeg)
+
+
+
 ## 刷机教程
 
 ## 接入HomeAssistant
