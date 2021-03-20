@@ -20,7 +20,7 @@
 
 ## 情景开关
 
-![](.gitbook/assets/wei-biao-ti-2.png)
+![&#x60C5;&#x666F;&#x5F00;&#x5173;&#x811A;&#x4F4D;&#x56FE;](.gitbook/assets/yi-hui-yun-zigbee-qing-jing-kai-guan-.png)
 
 ## 窗帘开关
 
